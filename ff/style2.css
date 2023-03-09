@@ -1,0 +1,224 @@
+
+.btn {
+  font-weight: bold;
+}
+.btn:hover {
+  color: white !important;
+  background-color: black !important;
+}
+#lopppp {
+  /* padding-right: 120px; */
+  border-radius: 32px;
+}
+
+/* external css: flickity.css */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+
+}
+
+/* .carousel {
+  background: #eee;
+} */
+
+.carousel-cell {
+  width: 280px;
+  height: 400px;
+  margin-right: 10px;
+  border-radius: 7px;
+}
+.carousel-cell:before {
+  display: block;
+  text-align: center;
+  line-height: 200px;
+  font-size: 80px;
+  color: white;
+}
+.carousel-cell:hover {
+  box-shadow: 1px 5px 6px 6px rgb(243, 243, 243);
+}
+
+#try:hover {
+  background-color: silver;
+}
+#lkjh {
+  width: 10%;
+}
+.abv {
+  position: absolute;
+  right: 20px;
+  top: 8px;
+  font-size: 20px;
+}
+.nav-link:hover {
+  font-weight: bold;
+}
+/* @media (max-width: 400px) {
+  #box-1 {
+    display: inline;
+  }
+}
+@media (min-width: 400px) and (max-width: 500px) {
+  #box-2 {
+    display: inline;
+  }
+}
+@media (max-width: 400px) {
+  #box-3 {
+    display: inline;
+  }
+}
+@media (min-width: 400px) and (max-width: 500px) {
+  #box-4 {
+    display: inline;
+  }
+}
+@media (max-width: 400px) {
+  #box-5 {
+    display: inline;
+  }
+}
+@media (min-width: 400px) and (max-width: 500px) {
+  #box-6 {
+    display: inline;
+  }
+} */
+
+@media (min-width: 500px) and (max-width: 500px) {
+  #box-1 {
+    display: inline;
+    margin-left: 10px;
+  }
+}
+
+@media (min-width: 500px) and (max-width: 500px) {
+  #box-2 {
+    display: inline;
+    margin-left: 10px;
+  }
+}
+
+@media (min-width: 500px) and (max-width: 500px) {
+  #box-3 {
+    display: inline;
+    margin-left: 10px;
+  }
+}
+
+@media (min-width: 500px) and (max-width: 500px) {
+  #box-4 {
+    display: inline;
+    margin-left: 10px;
+  }
+}
+
+@media (min-width: 500px) and (max-width: 500px) {
+  #box-5 {
+    display: inline;
+    margin-left: 10px;
+  }
+}
+
+@media (min-width: 500px) and (max-width: 500px) {
+  #box-6 {
+    display: inline;
+    margin-left: 10px;
+  }
+}
+
+h5 {
+  display: inline-block;
+  font-size: 28px !important;
+  margin: 5px;
+  font-style: bold !important;
+  font-family: "Noto Sans Tangsa", sans-serif;
+  font-family: "Sofia Sans", sans-serif;
+  font-family: "Noto Sans Tangsa", sans-serif;
+  font-family: "Noto Serif Toto", serif;
+  font-family: "Sofia Sans", sans-serif;
+}
+#mainpic {
+  margin-top: 70px;
+  margin-bottom: 20px;
+}
+#mainsi {
+  margin-left: 15px !important;
+  margin-right: 15px !important;
+  width: 280px !important;
+  height: 400px !important;
+}
+
+#same {
+  display: block;
+}
+.owl-carousel {
+  background: #eee;
+}
+
+.item {
+  margin-left: 10px !important;
+  margin-right: 10px !important;
+  width: 420px;
+  height: 550px;
+  background: #8c8;
+  border-radius: 5px;
+}
+
+.item:before {
+  display: block;
+  text-align: center;
+  content: counter(carousel-cell);
+  line-height: 200px;
+  font-size: 80px;
+  color: white;
+}
+#owli:hover {
+  border: 2px solid white;
+  box-shadow: 3px 5px 8px gray;
+}
+#owlis:hover {
+  border: 2px solid white;
+  box-shadow: 3px 5px 8px gray;
+  cursor: pointer;
+}
+h6 {
+  margin-left: 30px;
+  /* font-size: 20px !important; */
+
+  /* font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif; */
+}
+#price {
+  margin-left: 15px;
+  color: grey;
+  text-decoration: line-through;
+  font-size: 13px;
+}
+
+#end {
+  font-size: 14px;
+}
+b {
+  font-size: 16px !important;
+}
+.fas .fa-expand {
+  padding-right: 30px;
+}
+.ary i {
+  color: grey;
+  margin-left: 60px;
+}
+#ras {
+  width: 310px;
+  height: 420px;
+  display: inline;
+}
+#icons {
+  margin-left: 140px;
+}
+.card:hover {
+  box-shadow: 1px 3px 5px 8px rgb(145, 144, 144);
+}
